@@ -1,0 +1,5 @@
+expo documentation
+https://docs.expo.dev/router/installation/
+
+sample video
+https://www.youtube.com/watch?v=Z20nUdAUGmM
